@@ -7,7 +7,7 @@ Solución de las actividades con código del taller *Otras Estructuras de Datos*
 | `laboratorio-triage/` | **7. Laboratorio Práctico**: sistema hospitalario de admisión y triage (`Paciente`, `SalaUrgencias`, `Main`). |
 | `taller-ej1-modificacion-concurrente/` | **8. Taller, ejercicio 1**: `ConcurrentModificationException` (explicación en los comentarios), solución con `Iterator` y con `removeIf`. |
 | `taller-ej2-refactor-inventario/` | **8. Taller, ejercicio 2**: inventario `Repuesto[50]` + contador (`legado/`) refactorizado a `List<Repuesto>` (`refactorizado/`). |
-| `caso-estudio-carrito/` | **5. Caso de estudio**: reproducción de la falla de `CarritoLegacy` y solución con `List<Producto>` (`ArrayList<>(16)`). |
+| `caso-estudio.md` | **5. Caso de estudio**: respuestas a las preguntas para discusión. |
 | `actividad-evaluativa-traza/` | **9. Actividad evaluativa**, puntos 1 y 2: capacidad vs. tamaño y traza de `ciudades`. |
 
 ## Cómo ejecutar
@@ -20,7 +20,7 @@ javac -encoding UTF-8 *.java
 java Main
 ```
 
-Clases principales: `Main` (laboratorio, taller ej. 2 `refactorizado/`, caso de estudio),
+Clases principales: `Main` (laboratorio, taller ej. 2 `refactorizado/`),
 `ModificacionConcurrente` (taller ej. 1), `TrazaCiudades` y `CapacidadVsTamano` (actividad evaluativa).
 
 ## Notas del laboratorio
