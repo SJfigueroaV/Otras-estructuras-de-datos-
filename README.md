@@ -2,6 +2,13 @@
 
 Solución de las actividades del taller *Otras Estructuras de Datos* (Java SE 11).
 
+## Integrantes
+
+- Santiago Figueroa
+- Sarai Mejia
+- Juan Betancourt
+- Juan Guerrero
+
 | Carpeta / archivo | Actividad |
 |---|---|
 | `laboratorio-triage/` | **7. Laboratorio Práctico**: sistema hospitalario de admisión y triage (`Paciente`, `SalaUrgencias`, `Main`). |
