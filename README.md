@@ -1,14 +1,15 @@
 # Otras Estructuras de Datos: Arreglos de Objetos y ArrayList
 
-Solución de las actividades con código del taller *Otras Estructuras de Datos* (Java SE 11).
+Solución de las actividades del taller *Otras Estructuras de Datos* (Java SE 11).
 
-| Carpeta | Actividad |
+| Carpeta / archivo | Actividad |
 |---|---|
 | `laboratorio-triage/` | **7. Laboratorio Práctico**: sistema hospitalario de admisión y triage (`Paciente`, `SalaUrgencias`, `Main`). |
 | `taller-ej1-modificacion-concurrente/` | **8. Taller, ejercicio 1**: `ConcurrentModificationException` (explicación en los comentarios), solución con `Iterator` y con `removeIf`. |
 | `taller-ej2-refactor-inventario/` | **8. Taller, ejercicio 2**: inventario `Repuesto[50]` + contador (`legado/`) refactorizado a `List<Repuesto>` (`refactorizado/`). |
 | `caso-estudio.md` | **5. Caso de estudio**: respuestas a las preguntas para discusión. |
-| `actividad-evaluativa-traza/` | **9. Actividad evaluativa**, puntos 1 y 2: capacidad vs. tamaño y traza de `ciudades`. |
+| `actividad-evaluativa-traza/` | **9. Actividad evaluativa**, puntos 1 y 2: código que demuestra capacidad vs. tamaño y la traza de `ciudades`. |
+| `respuestas.md` | Respuestas escritas: **8.** consignas 1.1 y 1.2, **9.** puntos 1 a 4 (ensayo, traza, selección múltiple, V/F) y **10.** preguntas para discusión. |
 
 ## Cómo ejecutar
 
